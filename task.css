@@ -1,0 +1,7 @@
+table{width:500px ; border:1px solid#cc21 ;  }
+    table th , td {border:1px solid#ccc; }
+    table th {color:white ; background: grey ; }
+
+.purchase:hover{
+    background-color: cornflowerblue;
+} 
